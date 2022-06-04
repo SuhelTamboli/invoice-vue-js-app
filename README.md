@@ -1,3 +1,9 @@
+
+This repository is created while learning vue js and vuex.(code-along session)
+This is invoice creation app created using vue-2(options-api), vuex and firebase for storage.
+Please add your own firebase config after cloning this repository in src/firebase/firebaseInit.js file
+
+
 # invoice
 
 ## Project setup
@@ -23,6 +29,3 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-This repository is created while learning vue js and vuex.
-This is invoice creation app using firebase for storage.
-Please add your own firebase config after cloning this repository in src/firebase/firebaseInit.js file
